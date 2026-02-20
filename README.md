@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-🎓 Mastère Data & IA student at 42 School
-💻 Former Full-Stack Developer (2+ years apprenticeship)
-🔎 Currently looking for an internship in Data / AI / ML Engineering
+_ 🎓 Mastère Data & IA student at 42 School
+_ 💻 Former Full-Stack Developer (2+ years apprenticeship)
+_ 🔎 Currently looking for an internship in Data / AI / ML Engineering
 
 ----------------------------------------------------------------------
 
