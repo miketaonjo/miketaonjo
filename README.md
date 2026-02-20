@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-_ 🎓 Mastère Data & IA student at 42 School
-_ 💻 Former Full-Stack Developer (2+ years apprenticeship)
-_ 🔎 Currently looking for an internship in Data / AI / ML Engineering
+🎓 Mastère Data & IA student at 42 School<br>
+💻 Former Full-Stack Developer (2+ years apprenticeship)<br>
+🔎 Currently looking for an internship in Data / AI / ML Engineering<br>
 
 ----------------------------------------------------------------------
 
@@ -37,13 +37,11 @@ I am now looking for an internship in Data / AI / Machine Learning Engineering w
 
 📌 Highlight Projects
 
-🧠 EEG Motor Imagery Classification – End-to-end ML pipeline
-🐳 Inception – Multi-container Docker infrastructure
-🖥️ Minishell – Unix shell implementation in C
-🍝 Philosophers – Concurrent programming with threads & mutexes
+🧠 EEG Motor Imagery Classification – End-to-end ML pipeline<br>
+🐳 Inception – Multi-container Docker infrastructure<br>
+🖥️ Minishell – Unix shell implementation in C<br>
+🍝 Philosophers – Concurrent programming with threads & mutexes<br>
 
 📫 Contact
-
-📍 France
-📧 megcloarec@hotmail.fr
-🔗 LinkedIn: see in bio
+📧 megcloarec@hotmail.fr<br>
+🔗 LinkedIn: see in bio<br>
