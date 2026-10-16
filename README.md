@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-## Hi, I'm Meghann 👋
-
 🎓 Master's student in Data & AI at 42 School<br>  
 💻 Former Full-Stack Developer (2+ years apprenticeship)<br>
 📊 Currently working in Digital Project Management, Product Ownership & Business Analysis<br>
